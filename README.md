@@ -11,7 +11,7 @@ No API key required. Runs 100% on your machine.
 
 2. **Start the backend**
    ```bash
-   python server.py
+   python bills.py
    ```
    You'll see: `📡 Listening on http://localhost:5050`
 
